@@ -6,7 +6,7 @@ would: a distinctive visual direction, design tokens with measured contrast, eve
 motion design with real code, accessible flows, and copy that sounds human, not AI-generated.
 
 ```bash
-npx skills add <your-github-user>/ui-ux-studio
+npx skills add awalhadi/ui-ux-studio
 ```
 
 Works on any stack: React, Next.js, Vue, Nuxt, Svelte, Astro, Angular, Laravel, Tailwind CSS,
@@ -56,7 +56,7 @@ The scripts need Node 18 or later; nothing else is required. The skill has no ho
 
 ```bash
 # Any agent, with the skills CLI (installs to the right folder)
-npx skills add <your-github-user>/ui-ux-studio
+npx skills add awalhadi/ui-ux-studio
 
 # Claude Code, every project
 cp -r ui-ux-studio ~/.claude/skills/ui-ux-studio

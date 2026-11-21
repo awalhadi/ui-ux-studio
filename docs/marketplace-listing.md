@@ -1,11 +1,11 @@
 # Marketplace listing kit
 
-Copy for publishing UI/UX Studio. Replace `<your-github-user>`.
+Copy for publishing UI/UX Studio.
 
 ## GitHub repository
 
 **Repository name:** `ui-ux-studio` (keep it identical to the skill `name`, so `npx skills add
-<your-github-user>/ui-ux-studio` works and the marketplaces index one entry).
+awalhadi/ui-ux-studio` works and the marketplaces index one entry).
 
 **Description** (GitHub shows about 350 characters):
 
@@ -33,7 +33,7 @@ real before/after screen. Listings and shared links use it.
 | Tagline | 1 line | UI/UX design, animation and design systems for AI coding agents |
 | skills.sh, SkillsMP (taken from `SKILL.md`) | description | Already in the `SKILL.md` frontmatter; keywords lead it |
 | Claude Marketplaces, claudeskills.info, Skillselion (submissions) | about 160 characters | Senior-designer method for AI agents: distinctive UI, design tokens, motion with code for 10+ stacks, WCAG checks and UI code audits. |
-| Awesome-list pull request | 1 line | [ui-ux-studio](https://github.com/<your-github-user>/ui-ux-studio): UI/UX design, motion and design-system skill with contrast and UI lint scripts. |
+| Awesome-list pull request | 1 line | [ui-ux-studio](https://github.com/awalhadi/ui-ux-studio): UI/UX design, motion and design-system skill with contrast and UI lint scripts. |
 | Social post | 2–3 lines | One before/after image, the install command, and one sentence on what it fixes (generic AI-looking UI, missing states, janky animation). |
 
 ## Primary keywords (use them in this order)
